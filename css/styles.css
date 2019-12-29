@@ -1,0 +1,29 @@
+.alert{
+    color:black;
+    font-weight:bold;
+}
+h1{
+    text-align: center;
+    font-size:60px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+body{
+    background-color: pink;
+    background-image: url("pic.jpg");
+   
+
+}
+
+
+div{
+    
+    background-color: pink;
+    border: 2px solid black;
+    margin:auto;
+    height: 75%;
+    width: 50%;
+    
+}
